@@ -1,3 +1,3 @@
 [submodule "CSC370-Final"]
-	path = CSC370-Final
+	path = garbage-collector
 	url = git@github.com:jmsheff/CSC370-Final.git
